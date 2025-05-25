@@ -1,0 +1,43 @@
+body {
+    background: #272b30;
+    color: white;
+    font-family: Geist;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 1.25em;
+}
+:root {
+    --border-radius: 16px;
+    --border-radius-after: 64px;
+}
+@font-face {
+    font-family: Geist;
+    src: url('/webassets/fnt/Geist.ttf');
+}
+.container {
+    background: rgba(12, 13, 14, 0.45);
+    outline: 1px solid rgba(12, 13, 14, 0.45);
+    outline-offset: 4px;
+    padding: 10% 16px;
+    text-align: center;
+    animation: roundround 5s ease-in-out infinite;
+}
+@keyframes roundround {
+    0%,100% {
+        border-radius: var(--border-radius) var(--border-radius-after) var(--border-radius) var(--border-radius);
+    }
+    25% {
+        border-radius: var(--border-radius) var(--border-radius) var(--border-radius-after) var(--border-radius);
+    }
+    50% {
+        border-radius: var(--border-radius) var(--border-radius) var(--border-radius) var(--border-radius-after);
+    }
+    75% {
+        border-radius: var(--border-radius-after) var(--border-radius) var(--border-radius) var(--border-radius);
+    }
+}
+.container p {
+    white-space: pre-wrap;
+}
