@@ -36,7 +36,7 @@
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <tr>
-<td>Благодарности</td>
+<th>Благодарности</th>
 </tr>
 <tr>
 <td>
