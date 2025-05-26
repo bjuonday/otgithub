@@ -25,7 +25,7 @@
 
 ## Установка
 1. Скачайте ``application.xml`` и ``StandaloneLoader.swf`` на <a href="//github.com/bjuonday/otgithub/releases/tag/app">странице релизов</a>
-2. Щелкните правой кнопкой мыши значок ``OldTanks Online'', щелкните кнопку ``Открыть местоположение файла''
+2. Щелкните правой кнопкой мыши значок ``OldTanks Online``, щелкните кнопку ``Открыть местоположение файла``
 3. Перетащите файл в папку из установленного приложения, например:
 - Для application.xml: ``C:\Games\OldTanks Online\META-INF\AIR\``
 - Для StandaloneLoader.swf: ``C:\Games\OldTanks Online\``
