@@ -1,6 +1,26 @@
 # bjuan's форк OldTanks Online
 <p align="center" width="100%">// Русский | <a href="//github.com/bjuonday/otgithub/blob/main/README.md">Английский</a> \\</p>
 
+<table>
+<tr>
+<td>
+<a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/7nYw1sf.png">
+<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/7nYw1sf.png">
+</a>
+</td>
+<td>
+<a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/eEWSuJK.jpg">
+<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/eEWSuJK.jpg">
+</a>
+</td>
+<td>
+<a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/87rM4IO.jpg">
+<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/87rM4IO.jpg">
+</a>
+</td>
+</tr>
+</table>
+
 > Этот инструкция ещё не доделан.
 
 ## Установка
