@@ -5,17 +5,17 @@
 <tr>
 <td>
 <a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/7nYw1sf.png">
-<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/7nYw1sf.png">
+<img src="https://raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/7nYw1sf.png">
 </a>
 </td>
 <td>
 <a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/eEWSuJK.jpg">
-<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/eEWSuJK.jpg">
+<img src="https://raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/eEWSuJK.jpg">
 </a>
 </td>
 <td>
 <a href="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/87rM4IO.jpg">
-<img src="//raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/87rM4IO.jpg">
+<img src="https://raw.githubusercontent.com/bjuonday/otgithub/refs/heads/main/webassets/img/87rM4IO.jpg">
 </a>
 </td>
 </tr>
