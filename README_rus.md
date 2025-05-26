@@ -1,5 +1,5 @@
 # bjuan's форк OldTanks Online
-<p align="center" width="100%">// Русский | <a href="#">Английский</a> \\</p>
+<p align="center" width="100%">// Русский | <a href="//github.com/bjuonday/otgithub/blob/main/README.md">Английский</a> \\</p>
 
 > Этот инструкция ещё не доделан.
 
