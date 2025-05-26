@@ -14,7 +14,7 @@ body {
 }
 @font-face {
     font-family: Geist;
-    src: url('/webassets/fnt/Geist.ttf');
+    src: url('./webassets/fnt/Geist.ttf');
 }
 .container {
     background: rgba(12, 13, 14, 0.45);
