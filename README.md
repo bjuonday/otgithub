@@ -24,11 +24,15 @@
 > This instruction is not finished yet.
 
 ## Installation
-1. Download ``application.xml`` and ``StandaloneLoader.swf`` in <a href="//github.com/bjuonday/otgithub/releases/tag/app">Releases page</a>
+1. Download ``delete_cache.bat``, ``application.xml`` and ``StandaloneLoader.swf`` in <a href="//github.com/bjuonday/otgithub/releases/tag/app">Releases page</a>
 2. Right click 'OldTanks Online' icon, click over 'Open file location' button
 3. Drag the file onto a folder from installed application, for example:
+- For delete_cache.bat: ``C:\Users\[Your username]\Desktop``
 - For application.xml: ``C:\Games\OldTanks Online\META-INF\AIR\``
 - For StandaloneLoader.swf: ``C:\Games\OldTanks Online\``
+
+### If your cache has not been cleaned yet:
+1. Run ``delete_cache.bat`` and press any key to quit, if done successfully
 
 #### Just incase, if you want to recover ``application.xml`` file:
 1. Copy and paste old ``application.xml`` file
