@@ -122,40 +122,8 @@
 		"src": "dead.jpg?7"
 	 },
 	 {
-		"name": "garage_box_img1",
-		"src": "garage/tree.png"
-	 },
-	 {
 		"name": "garage_box_img",
-		"src": "garage/obj1.jpg"
-	 },
-	 {
-		"name": "garage_box_img4",
-		"src": "garage/obj2.jpg"
-	 },
-	 {
-		"name": "garage_box_img6",
-		"src": "garage/obj3.jpg"
-	 },
-	 {
-		"name": "garage_box_img8",
-		"src": "garage/obj4.jpg"
-	 },
-	 {
-		"name": "garage_box_img9",
-		"src": "garage/obj5.jpg"
-	 },
-	 {
-		"name": "garage_box_img10",
-		"src": "garage/obj6.jpg"
-	 },
-	 {
-		"name": "garage_box_img11",
-		"src": "garage/obj7.jpg"
-	 },
-	 {
-		"name": "garage_box_img12",
-		"src": "garage/tower.jpg"
+		"src": "garage/garage.jpg?7"
 	 },
 	 {
 		"name": "viking_m0_details",
