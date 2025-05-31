@@ -316,10 +316,6 @@
 		"src": "bonus/box.3ds?1"
 	  },
 	  {
-		"name": "bonus_box_gold1000",
-		"src": "bonus/crystal1000/box.3ds?1"
-	  },
-	  {
 		"name": "parachute",
 		"src": "bonus/parachute1/parachute.3ds?1"
 	  },
