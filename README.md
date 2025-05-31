@@ -1,4 +1,4 @@
-# bjuan's OldTanks Online Fork
+# bjuan's OTOMod
 <p align="center" width="100%">// <a href="//github.com/bjuonday/otgithub/blob/main/README_rus.md">Russian</a> | English \\</p>
 
 <table>
