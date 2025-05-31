@@ -1,4 +1,4 @@
-# bjuan's форк OldTanks Online
+# OTOMod от bjuan
 <p align="center" width="100%">// Русский | <a href="//github.com/bjuonday/otgithub/blob/main/README.md">Английский</a> \\</p>
 
 <table>
