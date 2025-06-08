@@ -126,6 +126,10 @@
         "src": "stopgame.mp3?1"	
 	  },
 	  {
+		"name": "killSound",
+        "src": "explosion-tnk.mp3?1"	
+	  },
+	  {
 		"name": "smoky_shot",
         "src": "turret/smoky/smoky_shot.mp3?1"	
 	  },
