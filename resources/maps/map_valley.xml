@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0.Light">
   <static-geometry>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -23,7 +23,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -34,7 +34,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -45,7 +45,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -78,7 +78,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -89,7 +89,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -100,7 +100,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -111,7 +111,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -122,7 +122,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -133,7 +133,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -144,7 +144,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -155,7 +155,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -166,7 +166,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -177,7 +177,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -188,7 +188,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck2">
+    <prop library-name="Land Rocks" group-name="default" name="uprck2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -199,7 +199,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -210,7 +210,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -221,7 +221,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -243,7 +243,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>15.707963</z>
       </rotation>
@@ -254,7 +254,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -265,7 +265,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -287,7 +287,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner2">
+    <prop library-name="Land Rocks" group-name="default" name="corner2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -298,7 +298,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -309,7 +309,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -320,7 +320,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -331,7 +331,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -342,7 +342,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -353,7 +353,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -364,7 +364,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -386,7 +386,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -397,7 +397,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -408,7 +408,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -419,7 +419,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -430,7 +430,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -452,7 +452,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -463,7 +463,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -474,7 +474,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -485,7 +485,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -496,7 +496,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -507,7 +507,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -518,7 +518,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -529,7 +529,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -540,7 +540,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -551,7 +551,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -562,7 +562,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck2">
+    <prop library-name="Land Rocks" group-name="default" name="uprck2">
       <rotation>
         <z>17.278760</z>
       </rotation>
@@ -573,7 +573,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -584,7 +584,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -595,7 +595,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -606,7 +606,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -617,7 +617,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -628,7 +628,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -639,7 +639,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 3">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 3">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -650,7 +650,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -661,7 +661,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -683,7 +683,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -694,7 +694,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -705,7 +705,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -716,7 +716,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -727,7 +727,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -738,7 +738,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -749,7 +749,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -760,7 +760,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -771,7 +771,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -782,7 +782,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -793,7 +793,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -804,7 +804,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -815,7 +815,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -826,7 +826,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -848,7 +848,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -859,7 +859,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -870,7 +870,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -881,7 +881,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -892,7 +892,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -903,7 +903,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -914,7 +914,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -925,7 +925,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -936,7 +936,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -958,7 +958,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -980,7 +980,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -991,7 +991,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1002,7 +1002,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1013,7 +1013,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1024,7 +1024,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1035,7 +1035,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -1046,7 +1046,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1057,7 +1057,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1068,7 +1068,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1079,7 +1079,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1101,7 +1101,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner2">
+    <prop library-name="Land Rocks" group-name="default" name="corner2">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -1112,7 +1112,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1123,7 +1123,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1134,7 +1134,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -1156,7 +1156,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1167,7 +1167,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1178,7 +1178,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1189,7 +1189,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1200,7 +1200,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1211,7 +1211,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1222,7 +1222,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -1233,7 +1233,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1244,7 +1244,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1255,7 +1255,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1277,7 +1277,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1299,7 +1299,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -1310,7 +1310,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1321,7 +1321,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1332,7 +1332,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1343,7 +1343,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1354,7 +1354,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1365,7 +1365,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1376,7 +1376,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1387,7 +1387,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1398,7 +1398,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -1409,7 +1409,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1431,7 +1431,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1442,7 +1442,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1453,7 +1453,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1464,7 +1464,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1475,7 +1475,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1486,7 +1486,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1497,7 +1497,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1508,7 +1508,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1519,7 +1519,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1530,7 +1530,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1541,7 +1541,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1563,7 +1563,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -1574,7 +1574,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1585,7 +1585,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1607,7 +1607,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1618,7 +1618,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner2">
+    <prop library-name="Land Rocks" group-name="default" name="corner2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1629,7 +1629,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1640,7 +1640,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1651,7 +1651,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1662,7 +1662,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1673,7 +1673,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1684,7 +1684,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1695,7 +1695,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1706,7 +1706,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1717,7 +1717,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1728,7 +1728,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 2">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1739,7 +1739,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1750,7 +1750,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1761,7 +1761,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1772,7 +1772,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1783,7 +1783,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1794,7 +1794,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1805,7 +1805,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1827,7 +1827,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1838,7 +1838,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1849,7 +1849,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -1860,7 +1860,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -1871,7 +1871,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wgate">
+    <prop library-name="Waffle Fence" group-name="default" name="Wgate">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1882,7 +1882,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1893,7 +1893,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1904,7 +1904,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1915,7 +1915,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck2">
+    <prop library-name="Land Rocks" group-name="default" name="uprck2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1926,7 +1926,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1937,7 +1937,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -1948,7 +1948,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1959,7 +1959,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1970,7 +1970,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -1981,7 +1981,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -1992,7 +1992,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2014,7 +2014,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2025,7 +2025,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2036,7 +2036,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck1">
+    <prop library-name="Land Rocks" group-name="default" name="uprck1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2047,7 +2047,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2058,7 +2058,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2069,7 +2069,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2080,7 +2080,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2091,7 +2091,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2102,7 +2102,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>14.137167</z>
       </rotation>
@@ -2113,7 +2113,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2124,7 +2124,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -2135,7 +2135,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck1">
+    <prop library-name="Land Rocks" group-name="default" name="uprck1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2146,7 +2146,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2157,7 +2157,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2168,7 +2168,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2179,7 +2179,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2190,7 +2190,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2212,7 +2212,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2223,7 +2223,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2234,7 +2234,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2245,7 +2245,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2256,7 +2256,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2267,7 +2267,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -2278,7 +2278,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2289,7 +2289,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2300,7 +2300,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -2311,7 +2311,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2322,7 +2322,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2333,7 +2333,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -2344,7 +2344,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -2355,7 +2355,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2366,7 +2366,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2388,7 +2388,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2399,7 +2399,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2410,7 +2410,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2421,7 +2421,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 2">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2432,7 +2432,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2443,7 +2443,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2465,7 +2465,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2476,7 +2476,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2487,7 +2487,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2498,7 +2498,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2509,7 +2509,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -2520,7 +2520,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2531,7 +2531,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2542,7 +2542,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2553,7 +2553,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2564,7 +2564,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2575,7 +2575,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2586,7 +2586,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2597,7 +2597,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2619,7 +2619,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2630,7 +2630,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2652,7 +2652,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2663,7 +2663,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck1">
+    <prop library-name="Land Rocks" group-name="default" name="uprck1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2674,7 +2674,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2696,7 +2696,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2707,7 +2707,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>14.137167</z>
       </rotation>
@@ -2718,7 +2718,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2729,7 +2729,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2740,7 +2740,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2751,7 +2751,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2762,7 +2762,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2773,7 +2773,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2784,7 +2784,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2795,7 +2795,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2806,7 +2806,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2817,7 +2817,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2828,7 +2828,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 6">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 6">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -2839,7 +2839,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2850,7 +2850,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2861,7 +2861,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2872,7 +2872,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -2883,7 +2883,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2894,7 +2894,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2916,7 +2916,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2927,7 +2927,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2949,7 +2949,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2971,7 +2971,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2982,7 +2982,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2993,7 +2993,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3004,7 +3004,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wgate">
+    <prop library-name="Waffle Fence" group-name="default" name="Wgate">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3015,7 +3015,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3037,7 +3037,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3048,7 +3048,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3059,7 +3059,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3070,7 +3070,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3081,7 +3081,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3103,7 +3103,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3114,7 +3114,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3125,7 +3125,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3136,7 +3136,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3147,7 +3147,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3158,7 +3158,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3169,7 +3169,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3191,7 +3191,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3202,7 +3202,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3213,7 +3213,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3224,7 +3224,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3235,7 +3235,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3257,7 +3257,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3268,7 +3268,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3290,7 +3290,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3301,7 +3301,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3312,7 +3312,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3323,7 +3323,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3334,7 +3334,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3345,7 +3345,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3356,7 +3356,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3367,7 +3367,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3378,7 +3378,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3389,7 +3389,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3400,7 +3400,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3411,7 +3411,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3444,7 +3444,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3455,7 +3455,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3466,7 +3466,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3477,7 +3477,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3488,7 +3488,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3499,7 +3499,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3510,7 +3510,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3521,7 +3521,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3532,7 +3532,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3543,7 +3543,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3554,7 +3554,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 1">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3565,7 +3565,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3587,7 +3587,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3598,7 +3598,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3609,7 +3609,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3620,7 +3620,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3631,7 +3631,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3642,7 +3642,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3653,7 +3653,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -3664,7 +3664,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3675,7 +3675,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3686,7 +3686,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3697,7 +3697,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -3708,7 +3708,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3719,7 +3719,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3730,7 +3730,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3741,7 +3741,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -3752,7 +3752,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3763,7 +3763,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3774,7 +3774,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3807,7 +3807,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 2">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3829,7 +3829,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3840,7 +3840,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3851,7 +3851,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
+    <prop library-name="Land Rocks" group-name="default" name="small2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3873,7 +3873,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3884,7 +3884,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3895,7 +3895,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3917,7 +3917,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3928,7 +3928,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3939,7 +3939,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3950,7 +3950,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3961,7 +3961,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3972,7 +3972,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3983,7 +3983,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3994,7 +3994,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4005,7 +4005,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4016,7 +4016,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -4027,7 +4027,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4038,7 +4038,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4049,7 +4049,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4060,7 +4060,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4071,7 +4071,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4093,7 +4093,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4104,7 +4104,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4115,7 +4115,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4126,7 +4126,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck2">
+    <prop library-name="Land Rocks" group-name="default" name="uprck2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4148,7 +4148,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4159,7 +4159,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4170,7 +4170,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4181,7 +4181,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4192,7 +4192,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4203,7 +4203,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4214,7 +4214,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4225,7 +4225,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4236,7 +4236,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4247,7 +4247,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4258,7 +4258,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4269,7 +4269,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4280,7 +4280,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4291,7 +4291,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4302,7 +4302,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4313,7 +4313,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
+    <prop library-name="Land Rocks" group-name="default" name="small2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4335,7 +4335,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 3">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4346,7 +4346,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4357,7 +4357,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4368,7 +4368,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4379,7 +4379,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4390,7 +4390,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 2">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4401,7 +4401,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="uprck1">
+    <prop library-name="Land Rocks" group-name="default" name="uprck1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4412,7 +4412,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4423,7 +4423,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4434,7 +4434,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4445,7 +4445,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
+    <prop library-name="Land Rocks" group-name="default" name="small2">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -4456,7 +4456,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4478,7 +4478,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4489,7 +4489,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4500,7 +4500,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4511,7 +4511,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4533,7 +4533,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4544,7 +4544,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -4555,7 +4555,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner2">
+    <prop library-name="Land Rocks" group-name="default" name="corner2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4566,7 +4566,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4577,7 +4577,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4599,7 +4599,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4610,7 +4610,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4621,7 +4621,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 3">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4632,7 +4632,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4654,7 +4654,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -4665,7 +4665,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4676,7 +4676,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4687,7 +4687,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4698,7 +4698,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4709,7 +4709,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>3.141592</z>
       </rotation>
@@ -4720,7 +4720,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small2">
+    <prop library-name="Land Rocks" group-name="default" name="small2">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -4731,7 +4731,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4742,7 +4742,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4753,7 +4753,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4764,7 +4764,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4775,7 +4775,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 6">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 6">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4786,7 +4786,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4797,7 +4797,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4819,7 +4819,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4830,7 +4830,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4841,7 +4841,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4852,7 +4852,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4863,7 +4863,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4874,7 +4874,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4885,7 +4885,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4896,7 +4896,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4907,7 +4907,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4918,7 +4918,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4929,7 +4929,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4940,7 +4940,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4962,7 +4962,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4984,7 +4984,7 @@
         <z>0.900</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4995,7 +4995,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -5006,7 +5006,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -5017,7 +5017,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5028,7 +5028,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5039,7 +5039,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5061,7 +5061,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5083,7 +5083,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5094,7 +5094,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5116,7 +5116,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5127,7 +5127,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5138,7 +5138,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5149,7 +5149,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5160,7 +5160,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5171,7 +5171,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5182,7 +5182,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5193,7 +5193,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5204,7 +5204,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5215,7 +5215,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5226,7 +5226,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5237,7 +5237,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5248,7 +5248,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -5259,7 +5259,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5270,7 +5270,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5281,7 +5281,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5292,7 +5292,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5303,7 +5303,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5314,7 +5314,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5325,7 +5325,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5336,7 +5336,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5347,7 +5347,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5358,7 +5358,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5391,7 +5391,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5402,7 +5402,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -5424,7 +5424,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5435,7 +5435,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5446,7 +5446,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5457,7 +5457,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5468,7 +5468,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5479,7 +5479,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5490,7 +5490,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5501,7 +5501,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5512,7 +5512,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5523,7 +5523,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5534,7 +5534,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5545,7 +5545,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5556,7 +5556,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5567,7 +5567,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5578,7 +5578,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5589,7 +5589,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5600,7 +5600,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5611,7 +5611,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5622,7 +5622,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -5633,7 +5633,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5644,7 +5644,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5655,7 +5655,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5666,7 +5666,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5677,7 +5677,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -5688,7 +5688,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5699,7 +5699,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5710,7 +5710,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5721,7 +5721,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5732,7 +5732,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5743,7 +5743,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5754,7 +5754,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5765,7 +5765,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5776,7 +5776,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5787,7 +5787,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5798,7 +5798,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5809,7 +5809,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Bridge 7">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 7">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5820,7 +5820,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5831,7 +5831,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5853,7 +5853,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -5864,7 +5864,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5886,7 +5886,7 @@
         <z>601.700</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5908,7 +5908,7 @@
         <z>1.700</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5919,7 +5919,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5930,7 +5930,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5941,7 +5941,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5952,7 +5952,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5963,7 +5963,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5974,7 +5974,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5985,7 +5985,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Walls" name="Wall 3">
+    <prop library-name="Waffle Fence" group-name="default" name="Wall 3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5996,7 +5996,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6007,7 +6007,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6018,7 +6018,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6029,7 +6029,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="St_bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="St_bridge 1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6040,7 +6040,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="small1">
+    <prop library-name="Land Rocks" group-name="default" name="small1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6051,7 +6051,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6062,7 +6062,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -6073,7 +6073,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -6084,7 +6084,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6095,7 +6095,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6106,7 +6106,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Bridges" name="Spring Board">
+    <prop library-name="Industrial Bridge" group-name="default" name="Spring Board">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -6117,7 +6117,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6128,7 +6128,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6139,7 +6139,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="up rock">
+    <prop library-name="Land Rocks" group-name="default" name="up rock">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6150,7 +6150,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6161,7 +6161,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="corner1">
+    <prop library-name="Land Rocks" group-name="default" name="corner1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6172,7 +6172,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6183,7 +6183,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6194,7 +6194,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
+    <prop library-name="Land Tiles" group-name="default" name="Tile 1x1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6205,7 +6205,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Elements v1" group-name="Outer Walls" name="WTile 1">
+    <prop library-name="Outer Walls" group-name="default" name="WTile 1">
       <rotation>
         <z>12.566371</z>
       </rotation>
@@ -6216,7 +6216,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Land v1" group-name="Rocks" name="Big Rck">
+    <prop library-name="Land Rocks" group-name="default" name="Big Rck">
       <rotation>
         <z>7.853982</z>
       </rotation>
