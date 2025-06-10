@@ -508,62 +508,6 @@
         {
             "library": "zaminWinter.tara",
             "version": 1
-        },
-
-
-
-
-        {
-            "library": "Buildingsv1.tara",
-            "version": 1
-        },
-        {
-            "library": "Buildingsv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Castle.tara",
-            "version": 1
-        },
-        {
-            "library": "CastleWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "ComplexBuildv1.tara",
-            "version": 1
-        },
-        {
-            "library": "ComplexBuildv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Elementsv1.tara",
-            "version": 1
-        },
-        {
-            "library": "Elementsv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Landscape.tara",
-            "version": 1
-        },
-        {
-            "library": "LandscapeWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "LandscapeWinter2.tara",
-            "version": 1
-        },
-        {
-            "library": "Landv1.tara",
-            "version": 1
-        },
-        {
-            "library": "Landv1Winter.tara",
-            "version": 1
         }
     ]
 }
