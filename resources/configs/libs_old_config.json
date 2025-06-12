@@ -1,14 +1,6 @@
 {
     "proplibs_old": [
         {
-            "library": "BattleCity.tara",
-            "version": 1
-        },
-        {
-            "library": "Beach.tara",
-            "version": 1
-        },
-        {
             "library": "Billboard.tara",
             "version": 1
         },
@@ -17,59 +9,19 @@
             "version": 1
         },
         {
-            "library": "BridgeParts.tara",
+            "library": "Buildingsv1.tara",
             "version": 1
         },
         {
-            "library": "BridgePartsWinter.tara",
+            "library": "Buildingsv1Winter.tara",
             "version": 1
         },
         {
-            "library": "BrokenBottom.tara",
+            "library": "Castle.tara",
             "version": 1
         },
         {
-            "library": "BrokenBottomWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "BrokenRoof.tara",
-            "version": 1
-        },
-        {
-            "library": "BrokenRoofWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "BrokenWallsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "BrokenWalls.tara",
-            "version": 1
-        },
-        {
-            "library": "Bush.tara",
-            "version": 1
-        },
-        {
-            "library": "BushWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "CityBuildings.tara",
-            "version": 1
-        },
-        {
-            "library": "CityBuildingsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "CityBuilds.tara",
-            "version": 1
-        },
-        {
-            "library": "CityBuildsWinter.tara",
+            "library": "CastleWinter.tara",
             "version": 1
         },
         {
@@ -89,47 +41,15 @@
             "version": 1
         },
         {
-            "library": "Cliffs.tara",
-            "version": 1
-        },
-        {
-            "library": "CliffsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "CliffsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "CliffsWinter.tara",
-            "version": 1
-        },
-        {
             "library": "ComBuild.tara",
             "version": 1
         },
         {
-            "library": "ComBuild1.tara",
+            "library": "ComplexBuildv1.tara",
             "version": 1
         },
         {
-            "library": "ConcreteTiles.tara",
-            "version": 1
-        },
-        {
-            "library": "ConcreteTilesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "ConcreteWalls.tara",
-            "version": 1
-        },
-        {
-            "library": "ConcreteWallsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "Cosmic.tara",
+            "library": "ComplexBuildv1Winter.tara",
             "version": 1
         },
         {
@@ -137,23 +57,11 @@
             "version": 1
         },
         {
-            "library": "Defense1.tara",
+            "library": "Elementsv1.tara",
             "version": 1
         },
         {
-            "library": "DesertHouses.tara",
-            "version": 1
-        },
-        {
-            "library": "DesertHousesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "Event.tara",
-            "version": 1
-        },
-        {
-            "library": "Event_summer.tara",
+            "library": "Elementsv1Winter.tara",
             "version": 1
         },
         {
@@ -161,67 +69,7 @@
             "version": 1
         },
         {
-            "library": "FachwerkHouse1.tara",
-            "version": 1
-        },
-        {
-            "library": "FachwerkHouse1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "FachwerkHouse2.tara",
-            "version": 1
-        },
-        {
-            "library": "FachwerkHouse2Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Fence.tara",
-            "version": 1
-        },
-        {
-            "library": "Fort.tara",
-            "version": 1
-        },
-        {
-            "library": "FortWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "GrassTiles.tara",
-            "version": 1
-        },
-        {
-            "library": "GrassTilesWinter.tara",
-            "version": 1
-        },
-        {
             "library": "Halloween.tara",
-            "version": 1
-        },
-        {
-            "library": "Hangars.tara",
-            "version": 1
-        },
-        {
-            "library": "HangarsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "IndustrialBridges.tara",
-            "version": 1
-        },
-        {
-            "library": "IndustrialBridgesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "IndustrialElements.tara",
-            "version": 1
-        },
-        {
-            "library": "IndustrialElementsWinter.tara",
             "version": 1
         },
         {
@@ -229,56 +77,51 @@
             "version": 1
         },
         {
-            "library": "kahgelWinter.tara",
-            "version": 1
-        },
-        {
             "library": "Kariz.tara",
             "version": 1
         },
         {
-            "library": "karizWinter.tara",
+            "library": "Landscape.tara",
             "version": 1
         },
         {
-            "library": "LandHills.tara",
+            "library": "LandscapeWinter.tara",
             "version": 1
         },
         {
-            "library": "LandHillsWinter.tara",
+            "library": "Landv1.tara",
             "version": 1
         },
         {
-            "library": "LandRises.tara",
+            "library": "Landv1Winter.tara",
             "version": 1
         },
-        {
-            "library": "LandRisesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "LandRocks.tara",
-            "version": 1
-        },
-        {
-            "library": "LandRocksWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "LandTiles.tara",
-            "version": 1
-        },
-        {
-            "library": "LandTilesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "Minecraft.tara",
-            "version": 1
-        },
-        
         {
             "library": "NuBu1.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu10.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu10Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu12.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu12Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu14.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu14Winter.tara",
             "version": 1
         },
         {
@@ -342,95 +185,11 @@
             "version": 1
         },
         {
-            "library": "NuBu10.tara",
-            "version": 1
-        },
-        {
-            "library": "NuBu10Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "NuBu12.tara",
-            "version": 1
-        },
-        {
-            "library": "NuBu12Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "NuBu14.tara",
-            "version": 1
-        },
-        {
-            "library": "NuBu14Winter.tara",
-            "version": 1
-        },
-        {
             "library": "NY.tara",
             "version": 1
         },
         {
-            "library": "OuterWalls.tara",
-            "version": 1
-        },
-        {
-            "library": "OuterWallsLair.tara",
-            "version": 1
-        },
-        {
-            "library": "OuterWallsLegends.tara",
-            "version": 1
-        },
-        {
-            "library": "OuterWallsWinter.tara",
-            "version": 1
-        },
-        {
             "library": "Passage.tara",
-            "version": 1
-        },
-        {
-            "library": "Passage1.tara",
-            "version": 1
-        },
-        {
-            "library": "Plants.tara",
-            "version": 1
-        },
-        {
-            "library": "Promotion.tara",
-            "version": 1
-        },
-        {
-            "library": "PromotionWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "RoadBlock.tara",
-            "version": 1
-        },
-        {
-            "library": "RoadBlockWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "SlopesRises.tara",
-            "version": 1
-        },
-        {
-            "library": "SlopesRisesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "SmallBridge.tara",
-            "version": 1
-        },
-        {
-            "library": "SmallBridgeWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "SpringCave.tara",
             "version": 1
         },
         {
@@ -442,42 +201,6 @@
             "version": 1
         },
         {
-            "library": "SpritesWinter2.tara",
-            "version": 1
-        },
-        {
-            "library": "Stuffs.tara",
-            "version": 1
-        },
-        {
-            "library": "StuffsWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "Terrain.tara",
-            "version": 1
-        },
-        {
-            "library": "Terrain1.tara",
-            "version": 1
-        },
-        {
-            "library": "Trees.tara",
-            "version": 1
-        },
-        {
-            "library": "TreesWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "VillageBuilds.tara",
-            "version": 1
-        },
-        {
-            "library": "VillageBuildsWinter.tara",
-            "version": 1
-        },
-        {
             "library": "VillageHouses.tara",
             "version": 1
         },
@@ -486,83 +209,23 @@
             "version": 1
         },
         {
-            "library": "WaffleFence.tara",
-            "version": 1
-        },
-        {
-            "library": "WaffleFenceWinter.tara",
-            "version": 1
-        },
-        {
             "library": "Yonje.tara",
-            "version": 1
-        },
-        {
-            "library": "yonjeWinter.tara",
             "version": 1
         },
         {
             "library": "Zamin.tara",
             "version": 1
         },
-        {
-            "library": "zaminWinter.tara",
+		{
+            "library": "LandscapeOld.tara",
             "version": 1
         },
-
-
-
-
-        {
-            "library": "Buildingsv1.tara",
+		{
+            "library": "Landv1Old.tara",
             "version": 1
         },
-        {
-            "library": "Buildingsv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Castle.tara",
-            "version": 1
-        },
-        {
-            "library": "CastleWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "ComplexBuildv1.tara",
-            "version": 1
-        },
-        {
-            "library": "ComplexBuildv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Elementsv1.tara",
-            "version": 1
-        },
-        {
-            "library": "Elementsv1Winter.tara",
-            "version": 1
-        },
-        {
-            "library": "Landscape.tara",
-            "version": 1
-        },
-        {
-            "library": "LandscapeWinter.tara",
-            "version": 1
-        },
-        {
-            "library": "LandscapeWinter2.tara",
-            "version": 1
-        },
-        {
-            "library": "Landv1.tara",
-            "version": 1
-        },
-        {
-            "library": "Landv1Winter.tara",
+		{
+            "library": "Elementsv1Old.tara",
             "version": 1
         }
     ]
