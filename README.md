@@ -21,7 +21,17 @@
 </tr>
 </table>
 
+> [!WARNING]
 > This instruction is not finished yet.
+
+> [!NOTE]
+> Folders:
+> 
+> ``resources`` - Textures after rebalance (or possibly, on 1.100)
+> 
+> ``resourcesmodern`` - Textures in 2016
+> 
+> ``resourcesold`` - Textures before rebalance (or 2009)
 
 ## Installation
 1. Download ``delete_cache.bat``, ``application.xml`` and ``StandaloneLoader.swf`` in <a href="//github.com/bjuonday/otgithub/releases/tag/app">Releases page</a>
